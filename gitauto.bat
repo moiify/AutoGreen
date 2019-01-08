@@ -1,5 +1,5 @@
 @echo off
-@title Green point
+@title Auto Green Point
 
 echo *>>README.md
 git add .
