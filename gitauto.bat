@@ -3,6 +3,7 @@
 
 echo *>>README.md
 git add .
-git commit -m 0v0
+git commit -m A commot a day keeps the girlfriend away.
 git push -u origin master
+
 echo I'm Stronger...
