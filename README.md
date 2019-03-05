@@ -6,7 +6,7 @@ Every day you can light up the green spot in GitHub  repository！
 
 ### How to use
 
-* First maske sure you have installed  [Git](https://git-scm.com/) .
+* First make sure you have installed  [Git](https://git-scm.com/) .
 
 * Fork this repository to your PC.
 
