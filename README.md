@@ -13,9 +13,4 @@ Every day you can light up the green spot in GitHub  repositoryï¼
 * Add the **<u>Auto.bat</u>** to your plan .[How to add the bat to your plan](https://jingyan.baidu.com/article/e2284b2b72bffce2e6118d2c.html)
 
 * Finish
-2020/01/11 ÖÜÁù
-2020/01/11 ÖÜÁù
-2020/01/11 ÖÜÁù13:56:56.91
-13:57:29.92
-2020/01/11 ÖÜÁù 13:58:51.23
-2020/01/1114:02:01.25
+2020/01/1114:02:13.98
